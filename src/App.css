@@ -1,0 +1,14 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,200;1,500;1,700&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700&family=Roboto:wght@300&display=swap');
+body{
+  /* font-family: 'Raleway', sans-serif; */
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  background-color: rgb(14, 14, 13);
+}
+/* .hero{
+  background-color: rgba(40, 24, 19, 1);
+} */
+.color{
+  background-color: rgba(17, 17, 17, 1);
+}
